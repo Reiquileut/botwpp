@@ -19,3 +19,4 @@ with open('csvplanilhaprovi.csv', 'r') as csv_file:
         time.sleep(30)
         keyboard.press_and_release('ctrl + w')
         print('chamou, fim',row[0])
+
